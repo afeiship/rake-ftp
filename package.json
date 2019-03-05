@@ -1,0 +1,17 @@
+{
+  "name": "rake-ftp",
+  "version": "1.0.0",
+  "description": "Upload files by ftp.",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-ftp.git"
+  },
+  "keywords": ["rake", "task"],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-ftp/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-ftp#readme"
+}
